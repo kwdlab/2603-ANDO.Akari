@@ -1,3 +1,6 @@
+##2603-ANDO.Akari
+2026年3月卒業　安藤朱里
+
 ## Overview
 
 This project investigates the effect of data compression on log transfer time in rsyslog using UDP and TCP.  
