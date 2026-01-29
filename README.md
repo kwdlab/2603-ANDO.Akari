@@ -1,5 +1,5 @@
 ## 2603-ANDO.Akari
-2026年3月卒業　安藤朱里
+
 
 ## Overview
 
